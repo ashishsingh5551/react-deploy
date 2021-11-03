@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ashishsingh5551/react-deploy.git/static/css/main.a617e044.chunk.css",
+    "main.js": "/ashishsingh5551/react-deploy.git/static/js/main.c0e4d28e.chunk.js",
+    "main.js.map": "/ashishsingh5551/react-deploy.git/static/js/main.c0e4d28e.chunk.js.map",
+    "runtime-main.js": "/ashishsingh5551/react-deploy.git/static/js/runtime-main.f0b99b26.js",
+    "runtime-main.js.map": "/ashishsingh5551/react-deploy.git/static/js/runtime-main.f0b99b26.js.map",
+    "static/js/2.936aa732.chunk.js": "/ashishsingh5551/react-deploy.git/static/js/2.936aa732.chunk.js",
+    "static/js/2.936aa732.chunk.js.map": "/ashishsingh5551/react-deploy.git/static/js/2.936aa732.chunk.js.map",
+    "static/js/3.ab8f0e14.chunk.js": "/ashishsingh5551/react-deploy.git/static/js/3.ab8f0e14.chunk.js",
+    "static/js/3.ab8f0e14.chunk.js.map": "/ashishsingh5551/react-deploy.git/static/js/3.ab8f0e14.chunk.js.map",
+    "index.html": "/ashishsingh5551/react-deploy.git/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/ashishsingh5551/react-deploy.git/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.936aa732.chunk.js.LICENSE.txt": "/ashishsingh5551/react-deploy.git/static/js/2.936aa732.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f0b99b26.js",
+    "static/js/2.936aa732.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.c0e4d28e.chunk.js"
+  ]
+}
